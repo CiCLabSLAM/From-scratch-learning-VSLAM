@@ -3,6 +3,8 @@ This is a tutorial page, including the basic computer operating system knowledge
 ## Tools learning
 ### Linux common usage
 ### ROS learning
+### vscode learnning
+### typora learning
 ### opencv learning
 ### g2o learning
 ### pcl learning
